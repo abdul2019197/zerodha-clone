@@ -164,11 +164,8 @@ width: 500px;
 .footer2{
     font-size: small;
 }
-.footer1 a:hover{
-    color: fuchsia;
-}
 .footer3 a:hover{
-    color: aquamarine;
+    color: blue;
 }
 .footer3{
     display: flex;
@@ -176,9 +173,30 @@ width: 500px;
 }
 .f2{
     text-decoration: none;
-    color: aqua;
+    color: blue;
 }
 .space a{
     font-size: large;
     padding: 10px;
+}
+.fb i:hover{
+    color: #136bc4;
+}
+.inst i:hover{
+    color: fuchsia;
+}
+.tw i:hover{
+    color: #136bc4;
+}
+.lin i:hover{
+    color: #136bc4;
+}
+.tel i:hover{
+    color: #136bc4;
+}
+.social{
+    display: flex;
+}
+.ab a:hover{
+    color: rgb(29, 132, 235);
 }
